@@ -1,0 +1,26 @@
+[appendix]
+= Bibliography
+
+[NOTE]
+.Example Bibliography (Delete this note). 
+===============================================
+Replace below Citations as needed.
+
+Please seperate OGC Internal documents from External ones.
+
+A Bibliography, if useful, shall appear as the last annex. The bibliography may include
+
+a.	documents that are not publicly available,
+b.	documents to which only informative reference is made, and
+c.	documents which have merely served as references in the preparation of the document.
+
+===============================================
+
+.OGC Documents and Standards
+- [OGC 15-NNNrN] OGC Server. URL
+- [OGC 15-NNNrN] OGC Server. URL
+
+.External Resources
+- [SOAP1.2] SOAP Version 1.2 Part 1: Messaging Framework (Second Edition). W3C Recommendation 27 April 2007. http://www.w3.org/TR/soap-part1/
+- [SOAP1.2] SOAP Version 1.2 Part 1: Messaging Framework (Second Edition). W3C Recommendation 27 April 2007. http://www.w3.org/TR/soap-part1/
+
