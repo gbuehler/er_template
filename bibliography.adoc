@@ -4,23 +4,23 @@
 [NOTE]
 .Example Bibliography (Delete this note). 
 ===============================================
-Replace below Citations as needed.
+The DocTeam SC recommends the TC approve adopting Springer LNCS as the official document citation type.
 
-Please seperate OGC Internal documents from External ones.
+Springer LNCS is widely used in technical and computer science journals and other publications
 
-A Bibliography, if useful, shall appear as the last annex. The bibliography may include
+* For citations in the text please use square brackets and consecutive numbers: [1], [2], [3]
 
-a.	documents that are not publicly available,
-b.	documents to which only informative reference is made, and
-c.	documents which have merely served as references in the preparation of the document.
+– Actual References
+
+* Journal: Author Surname, A.: Title. Publication Title. Volume number, Issue number, Pages Used (Year Published)
+
+* Web: Author Surname, A.: Title, http://Website-Url
 
 ===============================================
 
-.OGC Documents and Standards
-- [OGC 15-NNNrN] OGC Server. URL
-- [OGC 15-NNNrN] OGC Server. URL
 
-.External Resources
-- [SOAP1.2] SOAP Version 1.2 Part 1: Messaging Framework (Second Edition). W3C Recommendation 27 April 2007. http://www.w3.org/TR/soap-part1/
-- [SOAP1.2] SOAP Version 1.2 Part 1: Messaging Framework (Second Edition). W3C Recommendation 27 April 2007. http://www.w3.org/TR/soap-part1/
+
+* OGC,: OGC Testbed 11 Demonstration. (2015).
+
+* Lee, J., Zlatanova, S.: 3D geoinformation science. Springer (2009).
 
